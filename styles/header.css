@@ -8,7 +8,7 @@
     .container__imagem{
     width: 45px; height: 45px;
 }
-    .container__titulo, .container__imagem, .conteiner__frase{
+    .container__titulo, .container__imagem, .container__frase{
     padding: 0.1em; color: white;
 }
     .container__titulo,.container__frase{
